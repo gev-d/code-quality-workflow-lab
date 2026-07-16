@@ -26,7 +26,7 @@ function greet(name) {
      if (name) {
           console.log('Hi ' + name)
      } else {
-          console.log('Hi stranger')
+          console.log('Hi stranger vardan')
      }
 }
 

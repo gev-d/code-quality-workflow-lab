@@ -1,2 +1,2 @@
 echo "🐶 husky pre-commit is running..."
-cd husky-lint-staged/simple-boilerplate && npm test
+cd husky-lint-staged/simple-boilerplate && pnpm format:fix
